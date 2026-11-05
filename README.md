@@ -84,17 +84,17 @@ _Prices last updated: 2026-06-05_
 
 3. Put the case to the middle of the band. Silicone webbing side to skin, opposite of tracker face side.
 <p>
-  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-3.png" loading="lazy" class="big-size-image"/>
+  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-3.webp" loading="lazy" class="big-size-image"/>
 </p>
 
 4. Put the edges of the band through the slides.
 <p>
-  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-4.png" loading="lazy" class="big-size-image"/>
+  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-4.webp" loading="lazy" class="big-size-image"/>
 </p>
 
 5. Put the edges of the band through the buckles, making sure they connect together properly.
 <p>
-  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-5.png" loading="lazy" class="big-size-image"/>
+  <img src="assets/img/strap-community-builds/Depact V3.1 Strap-Dovetail/Assembly/step-5.webp" loading="lazy" class="big-size-image"/>
 </p>
 
 6. Put the edges of the band through the slides once more, above the strap that is already there.
