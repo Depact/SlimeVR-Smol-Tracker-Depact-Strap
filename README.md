@@ -1,6 +1,6 @@
 # SlimeVR Smol Tracker Depact Strap Designs
 
-Here you'll find a curated by community collection of strap designs.
+Smol project aimed at making budget DIY straps as good as possible for range of activities VRChat activities from meditations to VR dancing.
 
 ## Table of Contents
 
